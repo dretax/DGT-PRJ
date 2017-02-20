@@ -1,2 +1,4 @@
 # DGT02-PRJ
-DGT02
+
+
+Gyakorlati órák wutaliafuckecova56666
