@@ -1,6 +1,6 @@
 # DGT02-PRJ
 
 
-Gyakorlati órák wutaliafuckecova56666
-
-Project fileok meg a képek a releaseben találhatóak
+Training Course Releases for Digital Technology, on platform ISE, using panel Basys 2.
+This REPO was created to store my university training work, as release packs, so 
+other students could grab them.
